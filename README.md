@@ -4,8 +4,11 @@ Molecule identification from NMR spectrum using de novo molecule generator
 ## Requirements
 
 1.Python
+
 2.RDKit
+
 3.TensorFlow
+
 4.Gaussian
 
 ## How to use?
