@@ -21,7 +21,7 @@ git clone https://github.com/tsudalab/NMR-TS.git
 cd NMR-TS
 ```
 
-Train the RNN model*.
+Train the RNN model.*
 
 ```
 cd train_RNN
