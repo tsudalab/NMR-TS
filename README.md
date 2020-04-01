@@ -5,11 +5,11 @@ This code is for reference only as it requires MPI and Gaussian environment whic
 
 ## Requirements
 
-1. Python
+1. Python 2.7.15
 
-2. RDKit
+2. RDKit '2018.09.1'
 
-3. TensorFlow
+3. TensorFlow 1.9.0
 
 4. Gaussian
 
