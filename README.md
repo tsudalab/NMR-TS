@@ -1,6 +1,8 @@
 # NMR-TS
 Molecule identification from NMR spectrum using de novo molecule generator 
 
+This code is for reference only as it requires MPI and Gaussian environment which is hard to ensure among different clusters. Also, for the Gaussian part, we have used a Gaussain encapsulation package which we can not make public for now. Replacing this part by a traditional Gaussian code or other NMR spectrum prediction method would solve the problem.  
+
 ## Requirements
 
 1.Python
@@ -31,3 +33,5 @@ Run main program
 ```
 python mpi_thread_ChemTS_tree_vl_jz.py
 ```
+# License
+This project is licensed under the terms of the MIT license.
