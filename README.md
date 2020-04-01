@@ -36,7 +36,7 @@ python mpi_thread_ChemTS_tree_vl_jz.py
 
 ## Interface program of Gaussian
 
-To run the main program, it is necessary to implement the interface that connect the program with a simulation program of NMR whose input is sdf file. if you are interested in the interface program between the program and Gaussian, please contact masato.sumita@riken.jp (Masato Sumita).
+To run the main program, it is necessary to implement the interface that connect the program with a simulation program of NMR whose input is sdf file. If you are interested in the interface program between the program and Gaussian, please contact masato.sumita@riken.jp (Masato Sumita Ph. D., http://www17.plala.or.jp/nymphea/index.html).
 
 # License
 This project is licensed under the terms of the MIT license.
