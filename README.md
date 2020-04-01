@@ -5,13 +5,13 @@ This code is for reference only as it requires MPI and Gaussian environment whic
 
 ## Requirements
 
-1.Python
+1. Python
 
-2.RDKit
+2. RDKit
 
-3.TensorFlow
+3. TensorFlow
 
-4.Gaussian
+4. Gaussian
 
 ## How to use?
 
